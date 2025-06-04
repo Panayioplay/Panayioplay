@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Panayioplay
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning C#
 - 📫 How to reach me email
 - ⚡ Fun fact: do define a class in React you use className instead of class
 
